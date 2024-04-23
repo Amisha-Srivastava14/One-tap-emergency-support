@@ -21,3 +21,4 @@ HERE Routing API v8: Optimizes route planning considering real-time traffic cond
 Exploring HERE Documentation
 Comprehensive API Reference: Dive into HERE's documentation for detailed insights and examples on mapping, routing, geocoding, and place search APIs, empowering developers to integrate advanced location intelligence seamlessly.
 By harnessing HERE Technologies, our application delivers reliable location-based services, empowering users with essential information and efficient navigation tools. Explore HERE's advanced APIs to enhance your applications with cutting-edge location intelligence.
+TECHNOLOGY USED- HTML,CSS,JAVASCRIPT,HERE api, twilio api
